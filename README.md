@@ -60,7 +60,7 @@ Highest attrition roles include:
 3) Research Scientist
 4) Sales Representative
    
-**5) Attrition by Gender   **
+**5) Attrition by Gender**
 Male employees show slightly higher attrition compared to female employees.
 
 **6) Attrition by Years at Company**
