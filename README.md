@@ -1,121 +1,110 @@
 # HR_ANALYTICS_DASHBOARD
 An interactive Power BI dashboard that analyzes employee attrition trends using HR data to help organizations identify key factors affecting workforce retention.
 
-**HR Analytics Dashboard (Power BI)
-📊 Project Overview
-**
-The HR Analytics Dashboard is a data visualization project built using Power BI to analyze employee attrition and workforce trends. The dashboard helps HR teams understand the main factors influencing employee turnover and identify areas for improving employee retention.
+**HR Analytics Dashboard (Power BI)**
 
+**Project Overview**
+
+The HR Analytics Dashboard is a data visualization project built using Power BI to analyze employee attrition and workforce trends. The dashboard helps HR teams understand the main factors influencing employee turnover and identify areas for improving employee retention.
 This project uses HR data to provide insights into employee demographics, salary distribution, job roles, and attrition patterns.
 
-**🎯 Project Objectives**
+**Project Objectives**
 
-Analyze employee attrition trends
-Identify key factors affecting employee turnover
-Understand attrition by age, gender, salary, and job role
-Provide data-driven insights for HR decision making
+1) Analyze employee attrition trends
+2) Identify key factors affecting employee turnover
+3) Understand attrition by age, gender, salary, and job role
+4) Provide data-driven insights for HR decision making
 
-**📁 Dataset Information**
+**Dataset Information**
 
 The dataset contains information about employees including:
-
-Employee Count
-Age
-Gender
-Education
-Job Role
-Salary
-Years at Company
-Department
-Attrition Status
-
+1) Employee Count
+2) Age
+3) Gender
+4) Education
+5) Job Role
+6) Salary
+7) Years at Company
+8) Department
+9) Attrition Status
+    
 Total Employees: 1470
 Total Attrition: 237
 Attrition Rate: 16.1%
 
-**📌 Key Dashboard Metrics**
+**Key Dashboard Metrics**
 
 The dashboard highlights important HR metrics such as:
+1) Total Employees
+2) Attrition Count
+3) Attrition Rate
+4) Average Age
+5) Average Salary
+6) Average Years at Company
 
-Total Employees
-Attrition Count
-Attrition Rate
-Average Age
-Average Salary
-Average Years at Company
+**Dashboard Insights**
 
-**📈 Dashboard Insights
-1️⃣ Attrition by Age
-**
+**1)Attrition by Age**
 Most employee attrition occurs in the 26–35 age group, indicating early career turnover.
 
-**2️⃣ Attrition by Education**
-
+**2) Attrition by Education**
 Employees with Life Sciences and Medical backgrounds show higher attrition rates.
 
-**3️⃣ Attrition by Salary Slab**
-
+**3)Attrition by Salary Slab**
 Employees earning below 5K salary have the highest attrition.
 
-**4️⃣ Attrition by Job Role**
-
+**4) Attrition by Job Role**
 Highest attrition roles include:
-
-Laboratory Technician
-Sales Executive
-Research Scientist
-Sales Representative
-
-**5️⃣ Attrition by Gender**
-
+1) Laboratory Technician
+2) Sales Executive
+3) Research Scientist
+4) Sales Representative
+   
+**5) Attrition by Gender   **
 Male employees show slightly higher attrition compared to female employees.
 
-**6️⃣ Attrition by Years at Company**
-
+**6) Attrition by Years at Company**
 Most employees leave the company within the first few years of joining.
 
-**🛠 Tools & Technologies Used**
+**Tools & Technologies Used**
 
-Power BI Desktop – Data visualization
-CSV Dataset – HR data source
-Data Cleaning & Transformation – Power Query
-DAX – Calculated metrics and KPIs
+1) Power BI Desktop – Data visualization
+2) CSV Dataset – HR data source
+3) Data Cleaning & Transformation – Power Query
+4) DAX – Calculated metrics and KPIs
 
-**📊 Dashboard Features**
+**Dashboard Features**
 
-Interactive visualizations
-Department-wise attrition analysis
-Salary-based attrition insights
-Job role analysis
-Age and gender segmentation
+1) Interactive visualizations
+2) Department-wise attrition analysis
+3) Salary-based attrition insights
+4) Job role analysis
+5) Age and gender segmentation
 
-**🚀 How to Use**
+**How to Use**
 
-Download the dataset (HR_Analytics.csv)
-Open Power BI Desktop
-Load the dataset
-Use the provided visuals and measures to explore HR insights
+1) Download the dataset (HR_Analytics.csv)
+2) Open Power BI Desktop
+3) Load the dataset
+4) Use the provided visuals and measures to explore HR insights
 
-**📷 Dashboard Preview**
+**Dashboard Preview**
 
 The dashboard includes:
+1) Attrition Overview
+2) Attrition by Age Group
+3) Attrition by Job Role
+4) Attrition by Salary Slab
+5) Attrition by Education
+6) Attrition by Years at Company
 
-Attrition Overview
-Attrition by Age Group
-Attrition by Job Role
-Attrition by Salary Slab
-Attrition by Education
-Attrition by Years at Company
-
-**💡 Business Impact**
+**Business Impact**
 
 This dashboard helps organizations:
+1) Reduce employee turnover
+2) Improve retention strategies
+3) Identify high-risk employee segments
+4) Support HR decision making with data
 
-Reduce employee turnover
-Improve retention strategies
-Identify high-risk employee segments
-Support HR decision making with data
-
-**📌 Conclusion**
-
+**Conclusion**
 The HR Analytics Dashboard provides valuable insights into employee attrition patterns. By understanding these trends, organizations can implement strategies to improve employee satisfaction and reduce attrition.
